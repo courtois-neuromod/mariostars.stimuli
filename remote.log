@@ -1,0 +1,1 @@
+93496e7f-dd32-4471-afe2-03e8926714d6 autoenable=true bucket=cneuromod.mario-snes.stimuli chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.mario-snes.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1650396099.947812684s
