@@ -1,0 +1,48 @@
+{
+  "info": {
+    "coins": {
+      "address": 2012,
+      "type": ">n4"
+    },
+    "lives": {
+      "address": 1882,
+      "type": "|i1"
+    },
+    "player_speed?": {
+      "address": 8257628,
+      "type": "<d2"
+    },
+    "reset": {
+      "address": 1905,
+      "type": "<=d4"
+    },
+    "score": {
+      "address": 1999,
+      "type": ">n6"
+    },
+    "seconds": {
+      "address": 2027,
+      "type": ">n4"
+    },
+    "stage": {
+      "address": 1884,
+      "type": "|u1"
+    },
+    "time_hundreds": {
+      "address": 8259561,
+      "type": "|u1"
+    },
+    "time_tens": {
+      "address": 8259562,
+      "type": "|u1"
+    },
+    "time_units": {
+      "address": 2027,
+      "type": ">n4"
+    },
+    "world ": {
+      "address": 8259423,
+      "type": "|i1"
+    }
+  }
+}
