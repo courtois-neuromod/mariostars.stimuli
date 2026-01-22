@@ -4,13 +4,109 @@
       "address": 2012,
       "type": ">n4"
     },
+    "coins_added_to_counter": {
+      "address": 1058,
+      "type": "|u1"
+    },
+    "current_level": {
+      "address": 1887,
+      "type": "|u1"
+    },
+    "current_world": {
+      "address": 1888,
+      "type": "|u1"
+    },
+    "freeze_timer": {
+      "address": 1863,
+      "type": "|u1"
+    },
+    "level_timer_hundreds": {
+      "address": 2011,
+      "type": "|u1"
+    },
+    "level_timer_ones": {
+      "address": 2013,
+      "type": "|u1"
+    },
+    "level_timer_tens": {
+      "address": 2012,
+      "type": "|u1"
+    },
     "lives": {
       "address": 1882,
       "type": "|i1"
     },
+    "player_coins": {
+      "address": 1886,
+      "type": "|u1"
+    },
+    "player_lives": {
+      "address": 1893,
+      "type": "|u1"
+    },
+    "player_powerup": {
+      "address": 1400,
+      "type": "|u1"
+    },
+    "player_score_digit_0": {
+      "address": 1998,
+      "type": "|u1"
+    },
+    "player_score_digit_1": {
+      "address": 1999,
+      "type": "|u1"
+    },
+    "player_score_digit_2": {
+      "address": 2000,
+      "type": "|u1"
+    },
+    "player_score_digit_3": {
+      "address": 2001,
+      "type": "|u1"
+    },
+    "player_score_digit_4": {
+      "address": 2002,
+      "type": "|u1"
+    },
+    "player_score_digit_5": {
+      "address": 2003,
+      "type": "|u1"
+    },
+    "player_screen_number": {
+      "address": 18,
+      "type": "|u1"
+    },
     "player_speed?": {
       "address": 8257628,
       "type": "<d2"
+    },
+    "player_action_state": {
+      "address": 8257551,
+      "type": "|u1"
+    },
+    "player_x_high": {
+      "address": 120,
+      "type": "|u1"
+    },
+    "player_x_low": {
+      "address": 94,
+      "type": "|u1"
+    },
+    "player_x_speed": {
+      "address": 139,
+      "type": "|i1"
+    },
+    "player_y_low": {
+      "address": 112,
+      "type": "|u1"
+    },
+    "powerup_entity_type": {
+      "address": 524,
+      "type": "|u1"
+    },
+    "powerup_palette_timer": {
+      "address": 1365,
+      "type": "|u1"
     },
     "reset": {
       "address": 1905,
@@ -24,8 +120,108 @@
       "address": 2027,
       "type": ">n4"
     },
+    "sprite_number_0": {
+      "address": 28,
+      "type": "|u1"
+    },
+    "sprite_number_1": {
+      "address": 29,
+      "type": "|u1"
+    },
+    "sprite_number_2": {
+      "address": 30,
+      "type": "|u1"
+    },
+    "sprite_number_3": {
+      "address": 31,
+      "type": "|u1"
+    },
+    "sprite_number_4": {
+      "address": 32,
+      "type": "|u1"
+    },
+    "sprite_number_5": {
+      "address": 33,
+      "type": "|u1"
+    },
+    "sprite_number_6": {
+      "address": 34,
+      "type": "|u1"
+    },
+    "sprite_number_7": {
+      "address": 35,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_0": {
+      "address": 16,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_1": {
+      "address": 17,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_2": {
+      "address": 18,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_3": {
+      "address": 19,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_4": {
+      "address": 20,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_5": {
+      "address": 21,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_6": {
+      "address": 22,
+      "type": "|u1"
+    },
+    "sprite_onscreen_flag_7": {
+      "address": 23,
+      "type": "|u1"
+    },
+    "sprite_state_0": {
+      "address": 41,
+      "type": "|u1"
+    },
+    "sprite_state_1": {
+      "address": 42,
+      "type": "|u1"
+    },
+    "sprite_state_2": {
+      "address": 43,
+      "type": "|u1"
+    },
+    "sprite_state_3": {
+      "address": 44,
+      "type": "|u1"
+    },
+    "sprite_state_4": {
+      "address": 45,
+      "type": "|u1"
+    },
+    "sprite_state_5": {
+      "address": 46,
+      "type": "|u1"
+    },
+    "sprite_state_6": {
+      "address": 47,
+      "type": "|u1"
+    },
+    "sprite_state_7": {
+      "address": 48,
+      "type": "|u1"
+    },
     "stage": {
       "address": 1884,
+      "type": "|u1"
+    },
+    "star_power_timer": {
+      "address": 1363,
       "type": "|u1"
     },
     "time_hundreds": {
@@ -43,6 +239,14 @@
     "world ": {
       "address": 8259423,
       "type": "|i1"
+    },
+    "scroll_x_high": {
+      "address": 8257603,
+      "type": "|u1"
+    },
+    "scroll_x_low": {
+      "address": 8257602,
+      "type": "|u1"
     }
   }
 }
