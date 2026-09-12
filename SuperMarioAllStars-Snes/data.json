@@ -20,6 +20,10 @@
       "address": 1863,
       "type": "|u1"
     },
+    "injury_timer": {
+      "address": 1966,
+      "type": "|u1"
+    },
     "level_timer_hundreds": {
       "address": 2011,
       "type": "|u1"
@@ -35,6 +39,10 @@
     "lives": {
       "address": 1882,
       "type": "|i1"
+    },
+    "player_action_state": {
+      "address": 8257551,
+      "type": "|u1"
     },
     "player_coins": {
       "address": 1886,
@@ -80,8 +88,8 @@
       "address": 8257628,
       "type": "<d2"
     },
-    "player_action_state": {
-      "address": 8257551,
+    "player_status": {
+      "address": 1878,
       "type": "|u1"
     },
     "player_x_high": {
@@ -115,6 +123,14 @@
     "score": {
       "address": 1999,
       "type": ">n6"
+    },
+    "scroll_x_high": {
+      "address": 8257603,
+      "type": "|u1"
+    },
+    "scroll_x_low": {
+      "address": 8257602,
+      "type": "|u1"
     },
     "seconds": {
       "address": 2027,
@@ -224,6 +240,10 @@
       "address": 1363,
       "type": "|u1"
     },
+    "star_timer": {
+      "address": 1967,
+      "type": "|u1"
+    },
     "time_hundreds": {
       "address": 8259561,
       "type": "|u1"
@@ -239,14 +259,6 @@
     "world ": {
       "address": 8259423,
       "type": "|i1"
-    },
-    "scroll_x_high": {
-      "address": 8257603,
-      "type": "|u1"
-    },
-    "scroll_x_low": {
-      "address": 8257602,
-      "type": "|u1"
     }
   }
 }
