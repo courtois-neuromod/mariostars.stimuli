@@ -24,6 +24,10 @@
       "address": 1966,
       "type": "|u1"
     },
+    "jump_airborne": {
+      "address": 40,
+      "type": "|u1"
+    },
     "level_timer_hundreds": {
       "address": 2011,
       "type": "|u1"
